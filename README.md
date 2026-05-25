@@ -1,17 +1,24 @@
 # Rahim Iqbal
 
-Building AI systems for scientific discovery: generate -> test -> verify.
+I'm interested in the part of AI-for-science that starts after a model says
+something plausible.
 
-Start here: [`claim-checking-trace-lab`](https://github.com/abdulrahimiqbal/claim-checking-trace-lab) is a public proof object where scientific claims are turned into numeric checks, Lean proof checks, explicit limits, and next steps.
+Can the claim be checked? Can it fail cleanly? Can it be repaired? Can part of
+it be made formal?
 
-Current proof trail:
+The cleanest place to start is
+[`claim-checking-trace-lab`](https://github.com/abdulrahimiqbal/claim-checking-trace-lab):
+a small repo where I am keeping the trail from claim to check to result.
 
-```txt
-claim -> check plan -> numeric sanity checks -> Lean proof check -> limits -> next step
-```
+Two current traces:
 
-The wedge I care about: generated claims should become inspectable, rejectable,
-repairable, or formally checkable instead of stopping at plausible text.
+- Trace 001: bounded Kerr horizon claim -> numeric sanity checks -> Lean
+  proof-status check.
+- Trace 002: overbroad Kerr claim -> missing discriminant assumption -> repaired
+  theorem -> Lean check.
+
+The repos below are different pieces of the same question: generate candidates,
+test them, and keep enough evidence that someone else can inspect the result.
 
 ## Start Here
 
@@ -19,8 +26,8 @@ repairable, or formally checkable instead of stopping at plausible text.
 
 [`claim-checking-trace-lab`](https://github.com/abdulrahimiqbal/claim-checking-trace-lab)
 
-A small public lab for generated scientific claims, checks, results, limits,
-and next steps.
+This is where the traces live. They are intentionally small: one claim, one
+check, what passed or broke, and what still isn't proved.
 
 Trace 001:
 
