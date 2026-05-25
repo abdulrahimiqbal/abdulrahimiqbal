@@ -1,12 +1,17 @@
 # Rahim Iqbal
 
-I build AI systems that help generate, test, and verify new scientific ideas.
+Building AI systems for scientific discovery: generate -> test -> verify.
 
-The wedge I care about:
+Start here: [`claim-checking-trace-lab`](https://github.com/abdulrahimiqbal/claim-checking-trace-lab) is a public proof object where scientific claims are turned into numeric checks, Lean proof checks, explicit limits, and next steps.
+
+Current proof trail:
 
 ```txt
-generate better ideas -> test them against reality -> verify what can be made formal -> preserve the proof trail
+claim -> check plan -> numeric sanity checks -> Lean proof check -> limits -> next step
 ```
+
+The wedge I care about: generated claims should become inspectable, rejectable,
+repairable, or formally checkable instead of stopping at plausible text.
 
 ## Start Here
 
