@@ -26,6 +26,15 @@ AI-selected Kerr horizon claim
 -> explicit proof boundary
 ```
 
+Trace 002:
+
+```txt
+overbroad Kerr claim
+-> failed discriminant assumption
+-> repaired theorem
+-> Lean check with explicit assumption
+```
+
 ### Generate
 
 [`aristotle_new_orchestrator`](https://github.com/abdulrahimiqbal/aristotle_new_orchestrator)
