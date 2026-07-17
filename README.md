@@ -82,7 +82,7 @@ KerrFormalization.Kerr.outerHorizonIsDeltaRoot
 
 ## Contact
 
-- Website: https://www.rahimiqbal.com
+- Website: https://rahimiqbal.com
 - X: https://x.com/ariqbalkhan
-- LinkedIn: https://www.linkedin.com/in/rahiim-iqbal/
+- LinkedIn: https://www.linkedin.com/in/rahim-iqbal/
 - Substack: https://rahimiqbal.substack.com/
