@@ -1,6 +1,24 @@
 # Rahim Iqbal
 
-I'm interested in the part of AI-for-science that starts after a model says
+I build product and research systems where the requirements are unclear, the
+work crosses disciplines, and the result has to survive contact with the real
+world.
+
+Recent work includes:
+
+- helping build a World ID-enabled rewards marketplace that reached 250,000+
+  users and a verified peak of 201,637 token transactions in one day;
+- shaping client products from discovery and market study through launch and
+  iteration at Rolu Labs;
+- launching robotics and automation systems at Amazon and Tesla; and
+- building machine-checkable research workflows for AI-assisted science.
+
+The deployment work and its evidence are collected at
+[rahimiqbal.com](https://rahimiqbal.com), with a
+[case study](https://rahimiqbal.com/case-studies/forward-deployed-product-systems)
+and [crawlable resume](https://rahimiqbal.com/resume).
+
+On the research side, I'm interested in what happens after a model says
 something plausible.
 
 Can the claim be checked? Can it fail cleanly? Can it be repaired? Can part of
@@ -83,6 +101,7 @@ KerrFormalization.Kerr.outerHorizonIsDeltaRoot
 ## Contact
 
 - Website: https://rahimiqbal.com
+- Resume: https://rahimiqbal.com/resume
 - X: https://x.com/ariqbalkhan
-- LinkedIn: https://www.linkedin.com/in/rahim-iqbal/
+- LinkedIn: https://www.linkedin.com/in/rahiim-iqbal/
 - Substack: https://rahimiqbal.substack.com/
